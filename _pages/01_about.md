@@ -5,6 +5,5 @@ permalink: /about/
 author_profile: true
 ---
 
-페이지 작업중입니다. 
+Hello, I am Jinyoung Ko, and I am now a post-master researcher in BMES laboratory at Hanyang University.
 
-봐주셔서 감사합니다 :)
