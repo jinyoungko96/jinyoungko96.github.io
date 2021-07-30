@@ -1,10 +1,18 @@
 ---
-title: "About Me"
+wtitle: "About Me"
 layout: single
 permalink: /about/
 author_profile: true
 toc: false
 ---
+
+<!--<img
+src="..\assets\images\jinyoungko.jpg"
+style="float: left; margin-right: 20px; margin-bottom: 10px; width:140px; height:180px;" >-->
+
+![Siluet](..\assets\images\siluet.png)
+
+### Who Am I?
 
 My name is **Jinyoung Ko**. I am currently a post-master researcher in Building Mechanical and Environmental Systems (BMES) laboratory, Hanyang University, South Korea, working with Professor Jae-Weon Jeong. At the same time, **I am preparing to study abroad** to research the most forefront issues in Built Environment and Building Energy. 
 
