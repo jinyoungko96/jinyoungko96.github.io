@@ -112,7 +112,7 @@ author:
       url: "mailto:hamonick224@hanyang.ac.kr"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://jyko-arc.github.io"
+      url: "https://jinyoungko96.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -122,7 +122,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
-    - label: "BMES"
+    - label: "BMES lab."
       url: "http://bmes.hanyang.ac.kr/"
 
 # Site Footer
