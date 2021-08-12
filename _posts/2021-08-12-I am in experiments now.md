@@ -12,7 +12,7 @@ tags:
 
 
 
-<img src="0812_1.jpg" style="float: center; margin-top: 20px;margin-bottom: 20px;" >
+<img src="..\_posts\0812_1.jpg" style="float: center; margin-top: 20px;margin-bottom: 20px;" >
 
 Hi, there!
 
