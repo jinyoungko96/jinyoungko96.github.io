@@ -154,7 +154,7 @@ include:
   - _pages
   - _static
   - _docs
-  
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -229,6 +229,8 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
+  
 
 # mimic GitHub Pages with --safe
 whitelist:
