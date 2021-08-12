@@ -16,6 +16,6 @@ tags:
 
 Hi, there!
 
-Nowadays, I have developed energy harvesting block to produce electricity from solar thermal energy and constructed experimental set-up. I made the set-up such as a refrigerator (left), a peltier plate, and data recorders with a laptop. 
+Nowadays, I have developed energy harvesting block to produce electricity from solar thermal energy and constructed experimental set-up. I made the set-up such as a refrigerator, a peltier plate, and data recorders with a laptop. 
 
 I hope every thing will be okay during my experiments :smiley:
