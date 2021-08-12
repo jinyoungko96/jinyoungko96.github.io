@@ -12,7 +12,11 @@ tags:
 
 
 
-<img src="..\_posts\0812_1.jpg" style="float: center; margin-top: 20px;margin-bottom: 20px;" >
+<img src="..\assets\images\0812_1.jpg" style="float: center; margin-top: 20px; margin-bottom: 0px;" >
+
+<img
+src="..\assets\images\EHB\01.png"
+style="float: center; margin-top: 20px; margin-bottom: 0px;" >
 
 Hi, there!
 
