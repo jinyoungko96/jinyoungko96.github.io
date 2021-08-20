@@ -2,11 +2,15 @@
 title: "I am experimenting now :sweat_smile:"
 date: 2021-08-12 10:55
 #last_modified_at:   2020-09-05 21:00
+comments: true 
+sitemap :
+  changefreq : daily
+  priority : 1.0
 categories:
   - Research
 tags:
   - English
-comments: true 
+
 #excerpt_separator: <!--more-->
 #toc: true
 ---

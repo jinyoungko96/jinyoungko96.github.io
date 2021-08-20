@@ -2,6 +2,10 @@
 title: "First posting"
 date: 2021-08-01 21:46
 #last_modified_at:   2020-09-05 21:00
+comments: true 
+sitemap :
+  changefreq : daily
+  priority : 1.0
 categories:
   - Blog
 tags:
