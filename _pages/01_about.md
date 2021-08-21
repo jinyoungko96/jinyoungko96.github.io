@@ -6,11 +6,18 @@ author_profile: true
 toc: false
 ---
 
-<!--<img
-src="..\assets\images\jinyoungko.jpg"
-style="float: left; margin-right: 20px; margin-bottom: 10px; width:140px; height:180px;" >-->
+<img
+src="..\assets\images\jinyoung_photo.jpg"
+align="center"
+style="display: block; margin: 0 auto; width:307px; height:465px;" >
 
-![Siluet](..\assets\images\siluet.png)
+<!--
+style="float: center; align= center; margin-right: 20px; margin-bottom: 10px; width:307px; height:465px;" -->
+
+
+<!--
+![Siluet](..\assets\images\siluet.jpg)
+-->
 
 ## <font size=3>Who Am I ?
 
