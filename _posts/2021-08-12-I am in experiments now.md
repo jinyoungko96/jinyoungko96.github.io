@@ -15,7 +15,7 @@ tags:
 #toc: true
 ---
 
-![Hello](0812_1.png)
+![Hello](/assets/images/0812_1.png)
 
 Hi, there!
 
