@@ -31,8 +31,8 @@ style="display: block; margin: 0 auto; width:307px; height:465px;" >
 
 - To predict human-building interaction for individual thermal comfort
 
-- To develop and evaluate energy saving potential of promising heating, ventilation, and air-conditioning (HVAC) systems
+- To develop and evaluate the energy-saving potential of promising heating, ventilation, and air-conditioning (HVAC) systems
 
-  Since I have experienced in energy performance analysis of building systems in both active and passive systems: heating, ventilation, and air-conditioning (HVAC) systems and building-integrated renewable energy systems, deep understanding in fundamental building systems and thermodynamics will be my assets to expand my research capacity.
+  Since I have experience in energy performance analysis of building systems in both active and passive systems: heating, ventilation, and air-conditioning (HVAC) systems and building-integrated renewable energy systems, a deep understanding of fundamental building systems and thermodynamics will be my assets to expand my research capacity.
 
 -->
