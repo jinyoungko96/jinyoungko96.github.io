@@ -11,7 +11,7 @@ src="..\assets\images\jinyoung_photo.jpg"
 align="center"
 style="display: block; margin: 0 auto; width:307px; height:465px;" >
 
-## <font size=3>Who Am I?
+## <font size=3>Architectural Engineer
 
 <font size=2>My name is <b>Jinyoung Ko</b>. I am currently a post-master researcher in Building Mechanical and Environmental Systems (BMES) laboratory, working with Professor Jae-Weon Jeong. At the same time, <b>I am preparing to study abroad</b> to study the most forefront issues in Built Environment and Building Energy domains. My personal goal is to provide a comfortable built environment without excessive energy consumption for humankind, also for the socially disadvantaged. </font>
 
